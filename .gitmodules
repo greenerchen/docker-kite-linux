@@ -1,0 +1,3 @@
+[submodule "KITE"]
+	path = KITE
+	url = https://github.com/webrtc/KITE.git
